@@ -14,5 +14,11 @@ Kit_Duplication_Assistant/
 # Exclude zip files
 *.zip
 
+# Exclude large files (>100MB)
+Veille/sources/Human Robot Agent (Jurgen Appelo) - public version.pdf
+*.iso
+*.mp4
+*.mov
+
 # Exclude temporary files
 ~$*
