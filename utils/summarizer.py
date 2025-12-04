@@ -37,40 +37,53 @@ def summarize(text: str, metadata: dict) -> str:
     
     Respecte scrupuleusement ce format :
     
-    # Veille : [Titre de l'article]
+    # Veille : {metadata.get('title')}
 
     - **Source** : [{metadata.get('source')}]({metadata.get('source')})
     - **Date** : {metadata.get('date')}
     - **Auteur** : {metadata.get('author')}
-    - **Tags** : #Tag1 #Tag2 #Tag3 (à déduire du contenu)
+    - **Tags** : #Tag1 #Tag2 #Tag3 (à déduire du contenu, max 5 tags pertinents)
 
     ## 📝 Résumé
-    [Résumé structuré de l'article en français. Met en avant les points clés.]
+    [Rédige un résumé structuré de l'article en français. Utilise des listes à puces si nécessaire. Met en avant les points clés.]
 
     ## 🧠 Analyse & Pense-bête
-    [Ton analyse critique : pourquoi c'est important ? Quel impact pour moi ? Idées d'application concrète.]
+    [Ton analyse critique : pourquoi c'est important ? Quel impact pour moi (développeur/manager IA) ? Idées d'application concrète.]
     
     ---
     
     Texte à analyser :
-    {text[:10000]} # On tronque pour éviter de dépasser les limites de tokens si nécessaire
+    {text[:15000]} 
     """
+    # Note: on tronque à 15000 caractères pour rester dans les limites raisonnables des context windows standards, 
+    # bien que Gemini puisse en prendre beaucoup plus.
 
     try:
         if PROVIDER == "openai":
-            # TODO: Appel API OpenAI
-            pass
+            response = openai.ChatCompletion.create(
+                model="gpt-4o-mini",
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.2,
+            )
+            return response.choices[0].message.content
+
         elif PROVIDER == "anthropic":
-            # TODO: Appel API Anthropic
-            pass
+            response = client.messages.create(
+                model="claude-3-sonnet-20240229",
+                max_tokens=2000,
+                temperature=0.2,
+                messages=[{"role": "user", "content": prompt}]
+            )
+            return response.content[0].text
+
         elif PROVIDER == "gemini":
-            # TODO: Appel API Gemini
-            pass
+            # Utilisation de Gemini 1.5 Flash (rapide et efficace pour du résumé)
+            model = genai.GenerativeModel("gemini-1.5-flash")
+            response = model.generate_content(prompt)
+            return response.text
+
         else:
-            return "Erreur : Provider LLM non supporté ou mal configuré."
-            
-        # Placeholder pour le moment
-        return f"# Fiche générée (Simulation)\n\nContenu basé sur {metadata['title']}"
+            return "Erreur : Provider LLM non supporté ou mal configuré. Vérifiez votre fichier .env"
 
     except Exception as e:
-        return f"Erreur lors de la génération du résumé : {str(e)}"
+        return f"Erreur lors de la génération du résumé avec {PROVIDER} : {str(e)}"
