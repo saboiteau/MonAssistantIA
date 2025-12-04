@@ -8,6 +8,8 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Décembre 2025
 
+- **[2025-12-04]** [GitHub](nouvelle-fiche-2025-12.md) - Inconnu
+
 - **[2025-12]** [Spec-Kit : le "Spec-Driven Development" par GitHub](fiches/2025-12/github-spec-kit-spec-driven-development-2025-12.md) - Workflow 5 étapes (Constitution, Specify, Plan, Tasks, Implement), fin du vibe coding, specs exécutables - GitHub
 - **[2025-12]** [Au-delà de la Tech, l'humain levier n°1 de la réussite IA](fiches/2025-12/wenvision-humain-levier-reussite-ia-2025-12.md) - Dette anxieuse, sécurité psychologique, soft skills = hard assets, réinvestir temps gagné - WEnvision
 - **[2025-12-04]** [L'Agent "Challenger" pour Muscler Vos Idées](fiches/2025-12/wenvision-agent-challenger-muscler-idees-2025-12.md) - Sparring-partner IA, avocat du diable, test robustesse idées, personas critiques, anticipation objections - WEnvision
@@ -327,7 +329,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 127
+- **Total d'articles** : 128
 - **Période couverte** : Juin 2023 - Décembre 2025
 - **Principaux auteurs** : Ethan Mollick (6), Cigref (5), Simon Willison (2), Jesse Vincent (2), Anthropic (5), Kent Beck (2), Google (5), Kieran Klaassen (2), Cobus Greyling (2), WEnvision (5), Raffaela Rein (1), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cat Wu & Boris Cherny (1), Netflix Technology Blog (1), Barron Ernst (1), Webb Wright (1), Bharat N. Anand (1), Andy Wu (1), Lyzr AI (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Cigref, Substack (Jurgen Appelo, The AI Leadership Edge)
