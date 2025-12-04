@@ -36,22 +36,21 @@ Et vous, vous êtes plutôt carte papier ou GPS avec vos équipes ?
 **Format** : Projection & Personas
 **Date suggérée** : Jeudi 27/11
 
-Dites bonjour à vos futurs collègues. 👋
+J'essaie d'imaginer une équipe dans 2 ou 3 ans. 🔮
 
-Dans une "Blended Team" (équipe mixte), vous ne managerez plus seulement des humains. Vous collaborerez avec :
-🤖 **Echo**, l'agent "Challenger" qui critique vos idées.
-📅 **Tala**, l'agent "Support" qui gère l'intendance.
-💻 **Cody**, l'agent "Expert" qui code et analyse la data.
+Est-ce que l'on dira encore "mon équipe de 5 personnes" ?
+Ou est-ce que l'on parlerai d'une équipe mixte : 3 humains, 2 agents de code et 1 agent de test ?
 
-C'est la vision du **M3K** (Management 3.0) : un écosystème où l'humain devient un travailleur **"M-Skilled"**, un généraliste augmenté capable de piloter des escouades d'agents.
+C'est le concept de "Blended Teams" (équipes mixtes) et de **M3K** (Management pour le 3ème Millénaire) théorisé par Jurgen Appelo.
 
 Sur le papier, c'est fascinant.
-Dans la réalité, c'est un défi RH immense :
-Comment gérer la carrière d'un collaborateur qui change de rôle 3 fois par jour ?
-Comment faire confiance à un agent junior qui peut encore halluciner ?
+Dans la réalité, cela pose des questions immenses :
+Comment on manage la carrière d'un humain qui devient un "généraliste augmenté" (M-Skilled) ?
+Comment on gère la "confiance" envers un agent junior qui hallucine encore ?
 
-On ne manage pas Echo comme on manage un humain.
-Je décrypte ces nouveaux codes du leadership dans cet article 👇
+On ne manage pas un agent IA comme on manage un humain. C'est un nouveau type de leadership d'écosystème qui s'invente.
+
+J'ai compilé ces réflexions et ces personas dans la suite de ma série (lien 👇).
 
 Prêts à accueillir Echo dans votre prochain point d'équipe ?
 
@@ -61,12 +60,12 @@ Prêts à accueillir Echo dans votre prochain point d'équipe ?
 
 ## Post 3 : Focus TOM (Organisation)
 
-**Format** : Analyse & Piliers
+**Format** : Constat Partagé + Piste de réflexion
 **Date suggérée** : Lundi 01/12
 
-Le ticket Jira qui attend 4h d'être priorisé est devenu une aberration. 📉
+Nos organigrammes actuels vont-ils tenir le choc ? 📉
 
-Nos organisations sont conçues pour des processus humains, avec leurs délais de validation. Mais face à des agents IA qui agissent en temps réel, cette latence devient un goulot d'étranglement fatal.
+Nos organisations sont conçues pour des processus humains, avec leurs délais de validation (A valide B qui transmet à C). Mais face à des agents IA qui agissent en temps réel, cette latence devient un goulot d'étranglement fatal.
 
 Il est temps de redessiner notre **TOM (Target Operating Model)**.
 Passer d'une logique de **Processus** (A valide B) à une logique d'**Interaction**.
