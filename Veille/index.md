@@ -8,6 +8,8 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Décembre 2025
 
+- **[2025-12-04]** [Décideurs, êtes-vous bons ou chanceux ?](nouvelle-fiche-2025-12-v4.md) - Inconnu
+
 - **[2025-12-04]** [Décideurs, êtes-vous bons ou chanceux ?](nouvelle-fiche-2025-12-v3.md) - Inconnu
 
 - **[2025-12-04]** [Décideurs, êtes-vous bons ou chanceux ?](nouvelle-fiche-2025-12-v2.md) - Inconnu
@@ -333,7 +335,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 130
+- **Total d'articles** : 131
 - **Période couverte** : Juin 2023 - Décembre 2025
 - **Principaux auteurs** : Ethan Mollick (6), Cigref (5), Simon Willison (2), Jesse Vincent (2), Anthropic (5), Kent Beck (2), Google (5), Kieran Klaassen (2), Cobus Greyling (2), WEnvision (5), Raffaela Rein (1), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cat Wu & Boris Cherny (1), Netflix Technology Blog (1), Barron Ernst (1), Webb Wright (1), Bharat N. Anand (1), Andy Wu (1), Lyzr AI (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Cigref, Substack (Jurgen Appelo, The AI Leadership Edge)
