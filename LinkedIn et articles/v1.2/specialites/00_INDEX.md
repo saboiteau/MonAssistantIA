@@ -60,6 +60,11 @@ Guide de référence rapide pour rédaction d'articles, conférences et communic
 **Métaphore clé** : Traversée du désert / Greffe  
 **Public** : RH, Managers, Transformation
 
+### 12. [Facilitation & Rétrospectives Augmentées](12_Facilitation_Retrospectives.md)
+**Résumé** : Agent Coach Rétro bi-modal (Game Master + Analyste Systèmes), formats créatifs, analyse systémique, révélation angles morts cognitifs  
+**Métaphore clé** : Sparring-partner de l'amélioration continue  
+**Public** : Scrum Masters, Coachs Agiles, Facilitateurs, Managers
+
 ---
 
 ## 🔗 Interconnexions principales
@@ -70,9 +75,11 @@ Tech-Orga-Culture (pilier central)
     │           → IA Conviviale (mindset)
     │           → Spirale Dynamique (valeurs)
     │           → Change Management (méthode)
+    │           → Facilitation Rétrospectives (amélioration continue) ✨
     │
     ├── Orga → Product Operating Model
     │        → AI Product Owner
+    │        → Facilitation Rétrospectives (dynamique équipe) ✨
     │
     └── Tech → API-First
              → Context Engineering
@@ -112,7 +119,8 @@ Tech-Orga-Culture (pilier central)
 | **CPO, Product Leaders** | Product Operating Model, Design Fiction, IA Conviviale |
 | **CTO, Architectes** | API-First, Context Engineering, Agents IA |
 | **Comex, CEO** | Tech-Orga-Culture, Temps Long, IA Conviviale |
-| **RH, Change** | Spirale Dynamique, Temps Long, Tech-Orga-Culture |
+| **RH, Change** | Spirale Dynamique, Temps Long, Tech-Orga-Culture, Change Management |
+| **Scrum Masters, Coachs Agiles** | Facilitation Rétrospectives, Change Management, Spirale Dynamique |
 | **Innovation** | Design Fiction, Agents IA, Context Engineering |
 
 ---
@@ -127,6 +135,8 @@ Tech-Orga-Culture (pilier central)
 | Temps Long | "Pionnier à la machette, 2 ans" |
 | Design Fiction | "Répétition générale avant première" |
 | Tech-Orga-Culture | "Fondations > Structure > Finitions" |
+| Facilitation Rétrospectives | "Sparring-partner amélioration continue" |
+| Change Management | "Traversée du désert / Greffe" |
 
 ---
 
@@ -141,5 +151,5 @@ Tech-Orga-Culture (pilier central)
 
 ---
 
-*Dernière mise à jour : 2025-11-20*  
-*Base : Profil_Sandrine_Boiteau_MAJ_2025_V2.md*
+*Dernière mise à jour : 2025-12-04*  
+*Base : Profil_Sandrine_Boiteau_MAJ_2025_V2.md + WEnvision Agent Coach Rétro*
