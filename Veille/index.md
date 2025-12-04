@@ -8,6 +8,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Décembre 2025
 
+- **[2025-12]** [Au-delà de la Tech, l'humain levier n°1 de la réussite IA](fiches/2025-12/wenvision-humain-levier-reussite-ia-2025-12.md) - Dette anxieuse, sécurité psychologique, soft skills = hard assets, réinvestir temps gagné - WEnvision
 - **[2025-12-04]** [L'Agent "Challenger" pour Muscler Vos Idées](fiches/2025-12/wenvision-agent-challenger-muscler-idees-2025-12.md) - Sparring-partner IA, avocat du diable, test robustesse idées, personas critiques, anticipation objections - WEnvision
 - **[2025-12-03]** [L'Agent "Coach Rétro" pour des Rétrospectives Qui Vont au Fond des Choses](fiches/2025-12/wenvision-coach-retro-retrospectives-2025-12.md) - Agent bi-modal (Game Master + Analyste Systèmes), formats créatifs, analyse schémas récurrents, causes profondes - WEnvision
 
@@ -45,6 +46,9 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Octobre 2025
 
+- **[2025-10]** [Rapport d’orientation stratégique 2025 - 4 archétypes pour 2040](fiches/2025-10/cigref-rapport-orientation-strategique-2025-archetypes-2040-2025-10.md) - Résilience offensive, autonomie stratégique, horizon 2040, 10 principes d'action - Cigref
+- **[2025-10]** [Préparer les organisations aux évolutions de compétences (10 ans)](fiches/2025-10/cigref-preparer-organisations-competences-10-ans-2025-10.md) - Prospective RH 10 ans, internalisation compétences critiques, organisation apprenante - Cigref
+- **[2025-10]** [Stratégies Numérique Responsable - Comment passer à l’échelle ?](fiches/2025-10/cigref-strategies-numerique-responsable-echelle-2025-10.md) - Maturité NR, freins scale, impact IA générative, frugalité numérique - Cigref
 - **[2025-10-30]** [NVIDIA is moving beyond hardware to software ecosystem dominance](fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30.md) - SLMs workflows agentiques, Nemotron Nano, DGX Spark, data flywheel, hardware moat - Cobus Greyling
 - **[2025-10-29]** [How to Use Claude Code Like the People Who Built It](fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29.md) - Cat Wu & Boris Cherny, antfooding, plan mode, subagents, slash commands - Every AI & I Podcast
 - **[2025-10-29]** [IA agentique en production : leçons de deux ans](fiches/2025-10/habert-ia-agentique-production-2025-10-29.md) - Quatre piliers agents production viables - WEnvision
@@ -99,6 +103,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Juillet 2025
 
+- **[2025-07]** [Guide de mise en œuvre de l’AI Act : impacts contractuels](fiches/2025-07/cigref-guide-mise-oeuvre-ai-act-impacts-contractuels-2025-07.md) - Checklist 14 points, conformité contrats IA, responsabilité, DPI - Cigref
 - **[2025-07-29]** [Data & AI team structure: Case studies](fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29.md) - Team Topologies framework, Conway's Law, design organisationnel - Xebia
 - **[2025-07-29]** [Gartner Hype Cycle GenAI 2025](fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29.md) - 4 innovations critiques - Gartner
 - **[2025-07-28]** [MCP pour débutants](fiches/2025-07/mcp-for-beginners-microsoft-developer-youtube-2025-07-28.md) - 12 vidéos, 43k+ vues - Microsoft Developer
@@ -128,6 +133,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Avril 2025
 
+- **[2025-04-25]** [La dépendance technologique aux softwares & cloud services américains](fiches/2025-04/cigref-dependance-technologique-cloud-us-2025-04.md) - 80% dépenses UE vers USA, 2M emplois US financés, souveraineté économique - Cigref
 - **[2025-04-23]** [AI Workflow for Wardley Mapping](fiches/2025-04/ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23.md) - LLM prompts, Obsidian, NetworkX clustering - Tutoriel vidéo
 - **[2025-04-17]** [Gemini CLI ToS Privacy](fiches/2025-04/gemini-cli-tos-privacy-google-2025-04-17.md) - Privacy policies - Google
 
@@ -204,6 +210,9 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [CEA ExpressIF 3](fiches/2025-10/cea-expressif-3-riscv-ai-soc-embedded-2025-10-01.md) - CEA
 
 ### Transformation & Adoption
+- **[2025-12]** [Au-delà de la Tech, l'humain levier n°1 de la réussite IA](fiches/2025-12/wenvision-humain-levier-reussite-ia-2025-12.md) - WEnvision
+- **[2025-10]** [Rapport d’orientation stratégique 2025 - 4 archétypes pour 2040](fiches/2025-10/cigref-rapport-orientation-strategique-2025-archetypes-2040-2025-10.md) - Cigref
+- **[2025-10]** [Préparer les organisations aux évolutions de compétences (10 ans)](fiches/2025-10/cigref-preparer-organisations-competences-10-ans-2025-10.md) - Cigref
 - [L'Agent "Challenger" pour Muscler Vos Idées](fiches/2025-12/wenvision-agent-challenger-muscler-idees-2025-12.md) - WEnvision
 - [L'Agent "Coach Rétro" pour des Rétrospectives Qui Vont au Fond des Choses](fiches/2025-12/wenvision-coach-retro-retrospectives-2025-12.md) - WEnvision
 - [Innover à l'ère agentique : lâcher le comment](fiches/2025-11/wenvision-innover-agentique-lacher-comment-2025-11.md) - WEnvision
@@ -247,6 +256,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Apollo Academy: AI Safety Training](fiches/2025-10/apollo-academy-ai-safety-research-training-2025-10-01.md) - Apollo Academy
 
 ### Économie & Marché
+- [La dépendance technologique aux softwares & cloud services américains](fiches/2025-04/cigref-dependance-technologique-cloud-us-2025-04.md) - Cigref
 - [L'essor du commerce sur ChatGPT](fiches/2025-11/barron-ernst-rise-of-commerce-chatgpt-2025-11-08.md) - Barron Ernst
 - [Shopify: AI Traffic 7x, Orders 11x Since January](fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04.md) - TechCrunch
 - [The Next Collapsing Tech Cost Is Software Itself](fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04.md) - Cobus Greyling
@@ -307,13 +317,15 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Google Agentic Commerce AP2](fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16.md) - Google
 
 ### Politique & Régulation
+- [Guide de mise en œuvre de l’AI Act : impacts contractuels](fiches/2025-07/cigref-guide-mise-oeuvre-ai-act-impacts-contractuels-2025-07.md) - Cigref
+- [Stratégies Numérique Responsable - Comment passer à l’échelle ?](fiches/2025-10/cigref-strategies-numerique-responsable-echelle-2025-10.md) - Cigref
 - [White House: America's AI Action Plan](fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23.md) - White House
 
 ---
 
 ## Statistiques
 
-- **Total d'articles** : 120
+- **Total d'articles** : 126
 - **Période couverte** : Juin 2023 - Décembre 2025
-- **Principaux auteurs** : Ethan Mollick (6), Simon Willison (2), Jesse Vincent (2), Anthropic (5), Kent Beck (2), Google (5), Kieran Klaassen (2), Cobus Greyling (2), WEnvision (4), Raffaela Rein (1), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cat Wu & Boris Cherny (1), Netflix Technology Blog (1), Barron Ernst (1), Webb Wright (1), Bharat N. Anand (1), Andy Wu (1), Lyzr AI (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Substack (Jurgen Appelo, The AI Leadership Edge)
+- **Principaux auteurs** : Ethan Mollick (6), Cigref (5), Simon Willison (2), Jesse Vincent (2), Anthropic (5), Kent Beck (2), Google (5), Kieran Klaassen (2), Cobus Greyling (2), WEnvision (5), Raffaela Rein (1), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cat Wu & Boris Cherny (1), Netflix Technology Blog (1), Barron Ernst (1), Webb Wright (1), Bharat N. Anand (1), Andy Wu (1), Lyzr AI (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Cigref, Substack (Jurgen Appelo, The AI Leadership Edge)
