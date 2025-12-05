@@ -8,6 +8,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Décembre 2025
 
+- **[2025-12]** [Faire du dialogue social un levier de vitesse pour votre roadmap IA](fiches/2025-12/wenvision-dialogue-social-roadmap-ia-2025-12.md) - Gouvernance, inclusion, transparence - WEnvision
 - **[2025-12]** [A Map for Agentic Transformation](fiches/2025-12/appelo-map-agentic-transformation-2025-12.md) - Carte dynamique vs maturité linéaire, tensions comme énergie, décentralisé vs distribué - Jurgen Appelo
 - **[2025-12-04]** [Décideurs, êtes-vous bons ou chanceux ?](nouvelle-fiche-2025-12-v4.md) - Inconnu
 
@@ -221,6 +222,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [CEA ExpressIF 3](fiches/2025-10/cea-expressif-3-riscv-ai-soc-embedded-2025-10-01.md) - CEA
 
 ### Transformation & Adoption
+- **[2025-12]** [Faire du dialogue social un levier de vitesse pour votre roadmap IA](fiches/2025-12/wenvision-dialogue-social-roadmap-ia-2025-12.md) - WEnvision
 - **[2025-12]** [A Map for Agentic Transformation](fiches/2025-12/appelo-map-agentic-transformation-2025-12.md) - Jurgen Appelo
 - **[2025-12]** [Au-delà de la Tech, l'humain levier n°1 de la réussite IA](fiches/2025-12/wenvision-humain-levier-reussite-ia-2025-12.md) - WEnvision
 - **[2025-10]** [Rapport d’orientation stratégique 2025 - 4 archétypes pour 2040](fiches/2025-10/cigref-rapport-orientation-strategique-2025-archetypes-2040-2025-10.md) - Cigref
