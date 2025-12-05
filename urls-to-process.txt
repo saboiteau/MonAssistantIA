@@ -1,0 +1,14 @@
+# 📋 URLs à traiter pour la Veille
+# 
+# Instructions :
+# 1. Ajoutez vos URLs ici (une par ligne)
+# 2. Commitez/pushez sur GitHub depuis votre iPhone ou PC
+# 3. Demandez à Antigravity : "Vérifie urls-to-process et traite les nouvelles URLs"
+# 4. Antigravity créera les fiches dans Veille/fiches/YYYY-MM/
+# 5. Les URLs traitées seront déplacées en commentaire
+#
+# Format : une URL par ligne, sans guillemets
+# Exemple : https://www.wenvision.com/fr/articles/titre-article/
+
+# === URLs TRAITÉES (ne pas supprimer) ===
+
