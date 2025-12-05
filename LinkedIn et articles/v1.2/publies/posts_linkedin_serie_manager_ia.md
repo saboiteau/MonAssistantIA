@@ -60,23 +60,65 @@ Prêts à accueillir Echo dans votre prochain point d'équipe ?
 
 ## Post 3 : Focus TOM (Organisation)
 
-**Format** : Constat Partagé + Piste de réflexion
+**Format** : Retour d'Expérience & Vision
 **Date suggérée** : Lundi 01/12
 
-Nos organigrammes actuels vont-ils tenir le choc ? 📉
+🏗️ Quand je conseille sur un Target Operating Model (TOM), je vois toujours le même paradoxe : d'un côté, une ambition de performance, de l'autre, une réalité figée dans les processus séquentiels de l'ère industrielle ("A valide B qui transmet à C").
 
-Nos organisations sont conçues pour des processus humains, avec leurs délais de validation (A valide B qui transmet à C). Mais face à des agents IA qui agissent en temps réel, cette latence devient un goulot d'étranglement fatal.
+Autrement dit : on met des boulets aux pieds d'un sprinter.
 
-Il est temps de redessiner notre **TOM (Target Operating Model)**.
-Passer d'une logique de **Processus** (A valide B) à une logique d'**Interaction**.
+Et l'arrivée des agents IA rend ce blocage critique : leur vitesse transforme nos circuits de validation classiques en goulots d'étranglement fatals. 
 
-Dans mon dernier article, je détaille les 4 piliers de ce TOM Agentique :
-1️⃣ **Structure** : Des essaims fluides ("swarms") plutôt que des silos figés.
-2️⃣ **Processus** : Du "Human-in-the-loop" intelligent (validation ou co-création) plutôt que du contrôle systématique.
-3️⃣ **Compétences** : Un portefeuille de rôles plutôt qu'une fiche de poste statique.
-4️⃣ **Gouvernance** : Un "permis de conduire" progressif pour les IA, basé sur la confiance.
+Le chantier n'est pas que technologique, il est organisationnel. 
 
-C'est un chantier d'architecte cognitif.
-Découvrez comment repenser votre organisation ici 👇
+Et si on passait du Contrôle (Processus) à la Confiance (Interaction) ?
 
-#TOM #Organisation #Agile #IA #Transformation
+Pour opérer cette bascule, je me prépare à redessiner les TOM avec l'IA agentique sur ces 4 leviers :
+
+1️⃣ Structure : Silos ➔ "Essaims" éphémères 
+
+2️⃣ Gouvernance : Interdiction ➔ Confiance progressive 
+
+3️⃣ Flux : BPMN rigide ➔ Boucles "Human-in-the-loop" 
+
+4️⃣ Humain : Fiche de poste ➔ Portefeuille de rôles
+
+Demain, nous ne serons plus gestionnaires de tâches, mais architectes de systèmes cognitifs. 
+
+Notre rôle ? Designer la circulation de l'intelligence, qu'elle soit biologique ou artificielle.
+
+Un défi immense, que j'apprends moi-même à relever.
+
+Je détaille ces 4 leviers dans cet article 👇
+
+https://www.wenvision.com/fr/articles/redessiner-votre-tom-pour-l-ia-agentique-du-processus-a-l-interaction/
+
+#TargetOperatingModel #SystemArchitect #IA #Transformation #Management
+
+---
+
+## Post 4 : Le Quotidien (Manager-Jardinier)
+
+**Format** : Analogie & Méthode
+**Date suggérée** : Mercredi 03/12
+
+Arrêtez de prompter. Commencez à jardiner. 🌱
+
+On ne "programme" pas une IA comme on construit un pont, avec des plans figés.
+On **élève** une IA comme un jardinier s'occupe de ses plantes.
+
+Pourquoi cette métaphore est essentielle en 2026 ?
+Parce que contrairement à un logiciel classique (Excel), l'IA n'est pas déterministe. Elle a besoin de :
+1.  **Tuteurs** (votre intention)
+2.  **Taille** (votre feedback correctif quand elle hallucine)
+3.  **Engrais** (votre contexte et culture d'entreprise)
+
+Le vrai basculement, c'est que **90% de la valeur ne réside plus dans la production (le brouillon), mais dans l'évaluation (la validation)**.
+
+Votre rôle de manager mute : vous passez de "celui qui fait" à "celui qui juge ce qui est bon". Vous devenez le gardien du **Golden Set**, l'étalon-or de la qualité.
+
+L'IA peut écrire le code ou le texte. Mais elle ne peut pas inventer l'exigence. Ça, c'est votre job de jardinier.
+
+Je détaille cette méthode d'évaluation dans le dernier volet de ma série 👇
+
+#ManagerJardinier #IA #Evaluation #GoldenSet #Leadership
