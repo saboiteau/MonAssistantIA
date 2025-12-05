@@ -13,7 +13,7 @@ Ce dossier contient **110 articles de veille** technologique (juin 2023 - novemb
 | **[index.md](index.md)** | 📋 Catalogue complet des 110 articles | Navigation par date ou par thématique |
 | **[analyse-concepts-connus-vs-nouveaux.md](analyse-concepts-connus-vs-nouveaux.md)** | 🧠 Analyse de 80+ concepts appris | Apprentissage et progression |
 | **[claude.md](claude.md)** | 📖 Guide de structuration | Workflow création fiches |
-| **[urls-to-process.md](urls-to-process.md)** | ⏳ URLs en attente | Suivi traitement articles |
+| **[urls-to-process.txt](../urls-to-process.txt)** | ⏳ URLs en attente | Suivi traitement articles |
 | **[OPTIMISATION.md](OPTIMISATION.md)** | 🔧 Propositions d'amélioration | Évolution structure |
 
 ### Dossier fiches
@@ -45,7 +45,7 @@ Les fiches détaillées sont créées **progressivement** pour les nouveaux arti
 ### Ajouter un nouvel article
 
 1. **Lire le guide** : [claude.md](claude.md) → Section "Workflow d'ajout"
-2. **Ajouter URL** : Dans [urls-to-process.md](urls-to-process.md)
+2. **Ajouter URL** : Dans [urls-to-process.txt](../urls-to-process.txt)
 3. **Créer fiche** : Dans `fiches/YYYY-MM/identifiant.md`
 4. **Mettre à jour index** : Ajouter dans [index.md](index.md)
 
@@ -65,7 +65,7 @@ Consulter [analyse-concepts-connus-vs-nouveaux.md](analyse-concepts-connus-vs-no
 
 ## 🔗 Raccourcis utiles
 
-- 📥 [Ajouter une URL à traiter](urls-to-process.md)
+- 📥 [Ajouter une URL à traiter](../urls-to-process.txt)
 - 📋 [Voir tous les articles](index.md)
 - 🧠 [Mes apprentissages](analyse-concepts-connus-vs-nouveaux.md)
 - 📖 [Guide création fiche](claude.md)
@@ -73,7 +73,7 @@ Consulter [analyse-concepts-connus-vs-nouveaux.md](analyse-concepts-connus-vs-no
 ## 🛠️ Maintenance
 
 **Fichiers à mettre à jour régulièrement** :
-1. [urls-to-process.md](urls-to-process.md) - URLs en attente
+1. [urls-to-process.txt](../urls-to-process.txt) - URLs en attente
 2. [index.md](index.md) - Catalogue articles
 3. [analyse-concepts-connus-vs-nouveaux.md](analyse-concepts-connus-vs-nouveaux.md) - Concepts appris
 
