@@ -18,6 +18,9 @@ Ce dossier centralise les meilleurs prompts collectés, organisés par cas d'usa
 ### 🎓 Formation & Acculturation
 *   **[Programme d'Acculturation IA](Formation_Acculturation.md#programme-dacculturation-ia-modèle-adeo)** : Structure 2 modules + système de champions (modèle Adeo/TechRocks).
 
+### 🎯 Marketing & Recherche Utilisateur
+*   **[Personas "Hyper-Réalistes"](Marketing_Recherche_Utilisateur.md#personas-hyper-réalistes-données--web)** : Combine données internes et recherche web pour des personas complets.
+
 ### 🌍 Stratégie & Géopolitique
 *   **[Analyse Géopolitique d'une Technologie](Strategie_Geopolitique.md#analyse-géopolitique-dune-technologie)** : Framework 3 goulots (matériel, talents, modèles) pour évaluer dépendances.
 

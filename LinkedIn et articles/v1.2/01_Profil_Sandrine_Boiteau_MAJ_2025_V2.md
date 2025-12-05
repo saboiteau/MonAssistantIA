@@ -45,9 +45,9 @@
    - **SAFe CoPilot** : Veille sur évolution pratiques Agile augmentées par IA
 
 4. **Agilité et Transformation Organisationnelle**
-   - Agilité métier (au-delà de l'IT)
-   - Centers for Excellence (C4E)
-   - Méthodologies Agile adaptées au contexte business
+   - **SAFe (Scaled Agile Framework)** : Maîtrise des configurations (Essential à Portfolio) et rôles (RTE, PM/PO)
+   - **PI Planning** : Orchestration de l'alignement massif (synchronisation et cadence)
+   - Agilité métier (au-delà de l'IT) et Centers for Excellence (C4E)
    - **Spirale Dynamique** : Formation certifiante et application organisationnelle
    - Pratiques techniques (DevOps, Platform Engineering) comme socle, pas focus principal
 
@@ -62,6 +62,8 @@
 - **Colonne vertébrale API** : Fondation pour agents IA scalables (ADEO)
 - **Joie spinoziste** : L'IA comme expansion de l'être (Spinoza, Alain Corbin)
 - **Design Fiction** : Imaginer des futurs possibles pour anticiper impacts sociaux et éthiques des technologies
+- **Le Train (SAFe)** : Métaphore de la cadence et de la synchronisation qui ne s'arrête jamais
+- **Qualité Intégrée (Built-in Quality)** : Ne pas créer de dette technique à l'échelle
 
 ## 🎨 VOIX ET STYLE D'ÉCRITURE
 
@@ -338,6 +340,11 @@
 9. **Pionnier et Exploration**
    - Débroussaillage à la machette
    - Cycle de 2 ans = Temps défrichage territoire inconnu
+
+10. **Le Train et la Gare** (SAFe)
+    - Le train part à l'heure (cadence) qu'on soit prêt ou non
+    - Synchronisation de 125 personnes (comme un orchestre)
+    - Alignement massif > Optimisation locale
 
 ## 🎯 ANGLES D'ATTAQUE PRÉFÉRÉS 2025
 

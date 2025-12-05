@@ -65,6 +65,11 @@ Guide de référence rapide pour rédaction d'articles, conférences et communic
 **Métaphore clé** : Sparring-partner de l'amélioration continue  
 **Public** : Scrum Masters, Coachs Agiles, Facilitateurs, Managers
 
+### 13. [SAFe & Agilité à l'Échelle](13_SAFe_Agile_Echelle.md)
+**Résumé** : Cadre de référence pour alignement et livraison à grande échelle, PI Planning, rôles (RTE, PM), Train (ART)
+**Métaphore clé** : Le Train (cadence) / Chef d'orchestre
+**Public** : DSI, RTE, Coachs, Dirigeants Transformation
+
 ---
 
 ## 🔗 Interconnexions principales
@@ -80,6 +85,7 @@ Tech-Orga-Culture (pilier central)
     ├── Orga → Product Operating Model
     │        → AI Product Owner
     │        → Facilitation Rétrospectives (dynamique équipe) ✨
+    │        → SAFe (alignement à l'échelle)
     │
     └── Tech → API-First
              → Context Engineering
@@ -107,8 +113,8 @@ Tech-Orga-Culture (pilier central)
 
 ### Pour argumenter avec Comex
 - **Philosophie** : IA Conviviale, Temps Long
-- **Stratégie** : Product Operating Model, Design Fiction
-- **Exécution** : Context Engineering, API-First
+- **Stratégie** : Product Operating Model, Design Fiction, SAFe
+- **Exécution** : Context Engineering, API-First, SAFe (PI Planning)
 
 ---
 
@@ -120,7 +126,8 @@ Tech-Orga-Culture (pilier central)
 | **CTO, Architectes** | API-First, Context Engineering, Agents IA |
 | **Comex, CEO** | Tech-Orga-Culture, Temps Long, IA Conviviale |
 | **RH, Change** | Spirale Dynamique, Temps Long, Tech-Orga-Culture, Change Management |
-| **Scrum Masters, Coachs Agiles** | Facilitation Rétrospectives, Change Management, Spirale Dynamique |
+| **Scrum Masters, Coachs Agiles** | Facilitation Rétrospectives, Change Management, Spirale Dynamique, SAFe |
+| **Dirigeants Transformation, DSI** | SAFe, Tech-Orga-Culture, Temps Long |
 | **Innovation** | Design Fiction, Agents IA, Context Engineering |
 
 ---
@@ -137,6 +144,7 @@ Tech-Orga-Culture (pilier central)
 | Tech-Orga-Culture | "Fondations > Structure > Finitions" |
 | Facilitation Rétrospectives | "Sparring-partner amélioration continue" |
 | Change Management | "Traversée du désert / Greffe" |
+| SAFe / Agilité Échelle | "Le Train qui part à l'heure" |
 
 ---
 
